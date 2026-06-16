@@ -1,0 +1,17 @@
+DOCUMENTO DEMO — MARCO DE DECISIÓN PARA COMITÉ
+
+Material sintético para demo académica.
+
+Una decisión estratégica puede clasificarse en cuatro salidas:
+1. Aprobar: cuando el score es alto y no hay riesgos materiales.
+2. Aprobar con condiciones: cuando existe potencial, pero hay riesgos mitigables.
+3. Solicitar más información: cuando la evidencia documental es insuficiente.
+4. Rechazar: cuando existe contradicción directa con propósito, impacto o estándares mínimos.
+
+El Comité debe revisar especialmente:
+- Riesgo ambiental.
+- Riesgo laboral.
+- Riesgo reputacional.
+- Falta de trazabilidad.
+- Incentivo a sobreconsumo.
+- Incoherencia entre comunicación pública y operación real.
