@@ -1,0 +1,58 @@
+DOCUMENTO 15 — REGLAS DE RECOMENDACIÓN PARA EL AGENTE
+Tipo: Marco interno del prototipo
+Uso esperado: Estandarizar salidas del agente.
+
+SALIDAS PERMITIDAS
+1. Aprobar.
+2. Aprobar con condiciones.
+3. Rechazar.
+4. Solicitar más información.
+
+REGLAS GENERALES
+- No aprobar automáticamente decisiones con riesgos laborales, ambientales o reputacionales relevantes.
+- Si falta evidencia crítica, recomendar “solicitar más información”.
+- Si el potencial positivo existe pero el riesgo es mitigable, recomendar “aprobar con condiciones”.
+- Si la decisión contradice propósito o estándares mínimos, recomendar “rechazar”.
+- Si el score es mayor a 80 y hay evidencia suficiente, recomendar “aprobar”.
+
+REGLAS POR SCORE
+80-100:
+- Recomendación normal: aprobar.
+- Agregar controles de seguimiento si aplica.
+
+60-79:
+- Recomendación normal: aprobar con condiciones.
+- Requiere condiciones mínimas, KPIs y responsable.
+
+40-59:
+- Recomendación normal: aprobar con condiciones fuertes, rediseñar o solicitar más información.
+- No aprobar tal como está.
+
+0-39:
+- Recomendación normal: rechazar.
+- Solo reconsiderar si se rediseña la decisión.
+
+REGLAS DE BLOQUEO
+- Si hay riesgo de trabajo forzoso, trabajo infantil o violación grave de derechos sin mitigación: rechazar o solicitar más información.
+- Si no hay trazabilidad en proveedores críticos: no aprobar.
+- Si la decisión exige comunicación ambiental no respaldada por evidencia: no aprobar campaña.
+- Si el socio se niega a auditoría: no aprobar.
+- Si la decisión aumenta sobreproducción sin plan circular: aprobar solo con rediseño.
+
+CONDICIONES MÍNIMAS SUGERIDAS
+- Auditoría social y ambiental independiente.
+- Mapeo de proveedores y subproveedores.
+- Cláusulas de cumplimiento y salida.
+- Métricas de reducción de impacto.
+- Revisión legal de claims.
+- Plan de comunicación transparente.
+- Integración de reparación, reventa o circularidad.
+- Evaluación posterior a 90 o 180 días.
+
+PREGUNTAS ESTÁNDAR PARA COMITÉ
+- ¿Qué evidencia falta para aprobar con confianza?
+- ¿Qué stakeholder podría cuestionar esta decisión?
+- ¿Qué daño reputacional sería plausible?
+- ¿Qué condición contractual reduciría el riesgo?
+- ¿Cómo se medirá el impacto real?
+- ¿Qué alternativa sería más coherente?

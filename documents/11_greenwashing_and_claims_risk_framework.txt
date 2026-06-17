@@ -1,0 +1,40 @@
+DOCUMENTO 11 — MARCO DE RIESGO: GREENWASHING Y COMUNICACIÓN DE IMPACTO
+Tipo: Marco de evaluación interno para RAG
+Uso esperado: Evaluar campañas, claims ambientales, marketing, alianzas y productos.
+
+RESUMEN OPERATIVO
+Una decisión puede generar riesgo de greenwashing cuando comunica beneficios ambientales o sociales de manera más fuerte que la evidencia disponible. Para una marca como Patagonia, el riesgo no se limita a sanciones legales o reputación; afecta la credibilidad del propósito.
+
+CRITERIOS PARA EVALUAR CLAIMS
+1. Especificidad:
+   El claim debe indicar qué impacto se reduce, dónde, cuánto y bajo qué metodología.
+2. Evidencia:
+   Deben existir datos, reportes o certificaciones que respalden la afirmación.
+3. Materialidad:
+   El claim debe referirse a un aspecto relevante del impacto total, no a un detalle marginal.
+4. Balance:
+   La comunicación debe reconocer limitaciones y trade-offs.
+5. Trazabilidad:
+   Debe poder verificarse el origen del material, proveedor o resultado.
+6. Comparabilidad:
+   Si se compara contra alternativas, debe existir método claro.
+
+SEÑALES DE RIESGO
+- Uso de términos vagos como eco, verde, responsable o sostenible sin evidencia.
+- Campaña que destaca una mejora menor mientras oculta impactos mayores.
+- Alianza con socio cuestionado presentada como transformación.
+- Claims no auditables.
+- Omisión de limitaciones.
+- Uso de impacto futuro como si ya estuviera logrado.
+
+REGLAS PARA EL AGENTE
+- Si la evidencia es insuficiente, recomendar “solicitar más información”.
+- Si el claim parece correcto pero incompleto, recomendar “aprobar con condiciones”.
+- Si la campaña exagera impacto, reducir score de integridad y reputación.
+- Exigir revisión legal/comunicacional cuando haya claims ambientales.
+
+PREGUNTAS PARA EL COMITÉ
+- ¿Qué afirmación exacta se hará?
+- ¿Qué evidencia la respalda?
+- ¿Qué limitaciones deben comunicarse?
+- ¿Qué stakeholder podría cuestionarla?

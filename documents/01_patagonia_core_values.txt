@@ -1,0 +1,45 @@
+DOCUMENTO 01 — PATAGONIA: PROPÓSITO, MISIÓN Y VALORES CENTRALES
+Tipo: Fuente pública resumida para RAG
+Uso esperado: Evaluar coherencia filosófica y estratégica de decisiones.
+
+FUENTES BASE CONSULTADAS
+- Patagonia — Our Core Values.
+- Patagonia — 2025 Impact Report / Work in Progress Report.
+- Patagonia — Ownership / Earth is now our only shareholder.
+
+RESUMEN OPERATIVO
+Patagonia se define como una empresa cuyo propósito principal no es maximizar crecimiento comercial, sino usar el negocio como herramienta para proteger el planeta. Su misión corporativa se centra en salvar el planeta como parte de su identidad legal, cultural y operativa. Este propósito debe orientar decisiones de producto, alianzas, cadena de suministro, marketing, crecimiento, inversión y relación con clientes.
+
+VALORES CENTRALES PARA EVALUACIÓN
+1. Calidad:
+   Las decisiones deben favorecer productos duraderos, funcionales, reparables y útiles. El crecimiento no debe deteriorar calidad, vida útil ni desempeño.
+
+2. Integridad:
+   La empresa debe actuar con consistencia entre lo que comunica y lo que hace. Si una decisión requiere ocultar información, exagerar impacto o diluir compromisos, debe ser considerada riesgosa.
+
+3. Ambientalismo:
+   Las decisiones deben reducir daño ambiental, proteger ecosistemas, disminuir emisiones, reducir residuos o apoyar soluciones climáticas.
+
+4. Justicia:
+   La empresa debe considerar impactos sobre trabajadores, comunidades, proveedores, agricultores, consumidores y grupos vulnerables.
+
+5. No estar atados a la convención:
+   Patagonia puede elegir caminos empresariales no convencionales si estos protegen mejor el propósito. Una decisión no debe justificarse únicamente porque “así lo hace la industria”.
+
+CRITERIOS DE COHERENCIA
+- Una decisión es coherente si fortalece el propósito ambiental y social sin generar contradicciones relevantes.
+- Una decisión es parcialmente coherente si tiene potencial positivo, pero requiere condiciones, trazabilidad o mitigaciones.
+- Una decisión es incoherente si prioriza crecimiento comercial, distribución, margen o volumen a costa de integridad, ambiente, justicia o confianza.
+
+SEÑALES DE RIESGO
+- El argumento principal de la decisión es crecimiento en ventas sin explicar impacto ambiental o social.
+- El socio, proveedor o canal no comparte estándares mínimos de transparencia.
+- La decisión genera más consumo sin reforzar reparación, durabilidad o uso responsable.
+- Se comunica como sostenible algo que no puede verificarse.
+- La decisión aumenta complejidad de cadena sin mecanismos de control.
+
+PREGUNTAS PARA EL AGENTE
+- ¿Esta decisión ayuda a Patagonia a ser más coherente con su propósito?
+- ¿La decisión protege la confianza pública en la marca?
+- ¿Qué valor central se fortalece o se pone en riesgo?
+- ¿Qué evidencia falta para afirmar que la decisión es coherente?

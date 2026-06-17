@@ -1,0 +1,43 @@
+DOCUMENTO 07 — PATAGONIA: METAS CLIMÁTICAS Y RIESGO DE CARBONO
+Tipo: Fuente pública resumida para RAG
+Uso esperado: Evaluar decisiones por emisiones, transporte, materiales y crecimiento.
+
+FUENTES BASE CONSULTADAS
+- Patagonia — Climate Goals.
+- Patagonia — Environmental Responsibility Programs.
+- Patagonia — 2025 Impact Report.
+
+RESUMEN OPERATIVO
+Patagonia reconoce que su operación está asociada a emisiones de carbono: materiales, producción, acabados, transporte, packaging y uso/fin de vida. Su enfoque climático requiere reducir la huella de productos y supply chain, no solo compensar impactos. El agente debe penalizar decisiones que aumenten emisiones sin plan de reducción verificable.
+
+FACTORES DE EVALUACIÓN
+- Materiales vírgenes versus materiales preferidos o reciclados.
+- Intensidad energética de manufactura.
+- Transporte, especialmente transporte aéreo o urgente.
+- Packaging.
+- Devoluciones.
+- Sobreproducción.
+- Reparación y extensión de vida útil.
+- Energía renovable en operaciones propias y proveedores.
+- Descarbonización de proveedores clave.
+
+CRITERIOS DE COHERENCIA
+- La decisión debe estimar impacto climático.
+- Debe priorizar reducción directa antes que narrativa o compensaciones.
+- Debe evitar transporte urgente innecesario.
+- Debe favorecer materiales con menor impacto.
+- Debe incluir metas medibles y responsables.
+
+SEÑALES DE RIESGO
+- Expansión comercial sin cálculo de emisiones.
+- Nueva línea con materiales intensivos en carbono.
+- Aumento de envíos rápidos.
+- Campañas que elevan devoluciones o compras impulsivas.
+- Falta de medición de Scope 3.
+- No hay plan para proveedores de mayor impacto.
+
+PREGUNTAS PARA EL AGENTE
+- ¿Cómo afecta la decisión las emisiones directas e indirectas?
+- ¿Hay alternativas de menor carbono?
+- ¿Se justifica el incremento de producción?
+- ¿Cómo se medirá el impacto climático?

@@ -1,0 +1,16 @@
+MANIFIESTO DE USO — DOCUMENTOS PARA RAG
+
+Estos documentos fueron preparados para un prototipo académico de agente de IA.
+Su objetivo es mejorar la recuperación de contexto del asistente y darle criterios más consistentes.
+
+Estructura:
+- Documentos 01-10: resúmenes operativos basados en fuentes públicas de Patagonia y contraste externo.
+- Documentos 11-15: marcos de evaluación internos para el prototipo.
+
+Recomendación de uso:
+1. Subir estos archivos a la carpeta /documents del repositorio en GitHub.
+2. Hacer commit.
+3. En Render ejecutar: Manual Deploy → Clear build cache & deploy.
+4. Verificar en la app que la sección Conocimiento muestre los nuevos documentos.
+
+No contienen API keys ni información privada.

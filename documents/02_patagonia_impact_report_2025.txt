@@ -1,0 +1,41 @@
+DOCUMENTO 02 — PATAGONIA: IMPACT REPORT 2025 / WORK IN PROGRESS
+Tipo: Fuente pública resumida para RAG
+Uso esperado: Incorporar métricas, tensiones reales y criterios de impacto.
+
+FUENTE BASE CONSULTADA
+- Patagonia — 2025 Impact Report / Work in Progress Report.
+
+RESUMEN OPERATIVO
+El reporte de impacto 2025 presenta una visión de Patagonia como empresa que intenta alinear producto, gobernanza, activismo, responsabilidad ambiental y social. El reporte reconoce que fabricar cualquier producto tiene un costo ambiental y social. Por tanto, el agente debe evitar evaluar decisiones únicamente por beneficios comerciales; debe considerar emisiones, materiales, reparación, vida útil, trabajadores, proveedores, circularidad y transparencia.
+
+DATOS Y TEMAS RELEVANTES PARA EL AGENTE
+- Patagonia declara que existe para salvar el planeta y que ese propósito forma parte de su gobierno corporativo.
+- La calidad se entiende no solo como desempeño, sino también como durabilidad, multifuncionalidad, bajo daño y larga vida útil.
+- Fabricar productos implica costos ambientales y sociales, incluso cuando los productos resuelven necesidades reales.
+- El reporte reconoce tensiones: una empresa con propósito ambiental sigue operando dentro de una industria intensiva en recursos.
+- Las métricas de reparación, emisiones, materiales y fin de vida deben usarse como señales para evaluar decisiones.
+
+CRITERIOS DE EVALUACIÓN
+1. Producto:
+   Evaluar si la decisión mejora calidad, durabilidad, reparación o multifuncionalidad.
+2. Impacto ambiental:
+   Evaluar emisiones, materiales, residuos, packaging, logística y fin de vida.
+3. Circularidad:
+   Evaluar si la decisión impulsa reparación, reventa, reúso o reducción de producción nueva.
+4. Transparencia:
+   Evaluar si la decisión comunica impactos con honestidad y evita exageraciones.
+5. Coherencia operativa:
+   Evaluar si la decisión puede verificarse con datos y no solo con narrativa.
+
+SEÑALES DE RIESGO
+- Mayor volumen de producto sin plan de reducción de impacto.
+- Nueva línea sin solución clara de reparación, reventa o fin de vida.
+- Decisión que mejora ventas, pero aumenta emisiones, devoluciones o residuos.
+- Comunicación de impacto sin métricas.
+- No integrar Worn Wear o reparación cuando aplica.
+
+PREGUNTAS PARA EL AGENTE
+- ¿La decisión reduce o aumenta la carga ambiental?
+- ¿Existe evidencia de métricas o solo declaraciones?
+- ¿El beneficio comercial está balanceado por impacto real?
+- ¿Cómo afectaría esta decisión los indicadores de reparación, devoluciones, emisiones o fin de vida?

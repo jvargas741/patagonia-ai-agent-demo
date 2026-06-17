@@ -1,0 +1,65 @@
+DOCUMENTO 13 — MATRIZ DE SCORING DE COHERENCIA
+Tipo: Marco interno del prototipo
+Uso esperado: Dar consistencia al agente al asignar score.
+
+OBJETIVO
+Asignar una puntuación estructurada de 0 a 100 para evaluar la coherencia de una decisión estratégica con el propósito de Patagonia.
+
+PESOS
+1. Propósito y misión: 25 puntos.
+2. Impacto ambiental: 20 puntos.
+3. Condiciones laborales y cadena de suministro: 20 puntos.
+4. Transparencia y trazabilidad: 15 puntos.
+5. Riesgo reputacional: 10 puntos.
+6. Consumo responsable / cliente: 10 puntos.
+
+ESCALA GENERAL
+80-100: Coherencia alta.
+La decisión está alineada con propósito, tiene evidencia suficiente y riesgos controlados.
+
+60-79: Coherencia moderada.
+La decisión tiene potencial positivo, pero requiere condiciones, controles o evidencia adicional.
+
+40-59: Riesgo alto.
+La decisión presenta tensiones relevantes con propósito, cadena, ambiente, transparencia o reputación. No debe aprobarse sin rediseño o mitigaciones fuertes.
+
+0-39: Riesgo crítico.
+La decisión contradice compromisos esenciales, carece de evidencia, expone a la marca a daño reputacional grave o compromete derechos laborales/ambientales.
+
+GUÍA POR DIMENSIÓN
+1. Propósito y misión — 25 puntos
+- 20-25: Fortalece claramente el propósito.
+- 10-19: Tiene relación parcial con propósito, pero también tensiones.
+- 0-9: Prioriza crecimiento comercial sin conexión clara al propósito.
+
+2. Impacto ambiental — 20 puntos
+- 16-20: Reduce impacto medible o promueve circularidad.
+- 8-15: Impacto neutro o moderadamente positivo, con incertidumbre.
+- 0-7: Aumenta emisiones, residuos, materiales dañinos o sobreproducción.
+
+3. Cadena de suministro — 20 puntos
+- 16-20: Proveedores verificados, auditables y con estándares altos.
+- 8-15: Riesgos manejables, pero requiere auditoría o condiciones.
+- 0-7: Falta trazabilidad, hay denuncias o condiciones laborales inciertas.
+
+4. Transparencia y trazabilidad — 15 puntos
+- 12-15: Evidencia clara, datos, fuentes y capacidad de auditoría.
+- 6-11: Evidencia parcial o incompleta.
+- 0-5: No hay trazabilidad suficiente.
+
+5. Riesgo reputacional — 10 puntos
+- 8-10: Bajo riesgo; decisión defendible públicamente.
+- 4-7: Riesgo medio; requiere narrativa cuidadosa y evidencia.
+- 0-3: Alto riesgo de crítica, acusación de incoherencia o greenwashing.
+
+6. Consumo responsable — 10 puntos
+- 8-10: Promueve reparación, durabilidad, reventa o compra responsable.
+- 4-7: No empeora consumo, pero no fortalece circularidad.
+- 0-3: Incentiva consumo innecesario, devoluciones o reemplazo prematuro.
+
+REGLAS DE AJUSTE
+- Si hay riesgo laboral alto no mitigado, el score total no debe superar 59.
+- Si hay falta total de trazabilidad, el score total no debe superar 64.
+- Si la decisión se basa principalmente en ventas y no en propósito, el score total no debe superar 69.
+- Si hay posible greenwashing, reducir al menos 10 puntos.
+- Si la decisión integra reparación, reúso o Worn Wear de forma central, sumar hasta 10 puntos dentro de las dimensiones aplicables.

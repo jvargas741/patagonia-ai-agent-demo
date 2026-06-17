@@ -1,0 +1,44 @@
+DOCUMENTO 08 — PATAGONIA: WORN WEAR, REPARACIÓN Y CIRCULARIDAD
+Tipo: Fuente pública resumida para RAG
+Uso esperado: Evaluar consumo responsable, durabilidad, reparación, reventa y sobreproducción.
+
+FUENTES BASE CONSULTADAS
+- Patagonia — Our Quest for Circularity.
+- Patagonia — Why Plastics?
+- Patagonia — Product Repair / Worn Wear.
+- Patagonia — Trade In.
+
+RESUMEN OPERATIVO
+Worn Wear expresa una lógica central de Patagonia: mantener productos en uso durante más tiempo. La reparación, reventa, reúso, cuidado y reciclaje son mecanismos para reducir necesidad de producción nueva. Para el agente, esta dimensión es clave al evaluar campañas, canales comerciales, nuevos mercados, ecommerce, promociones y nuevas líneas.
+
+PRINCIPIOS DE CIRCULARIDAD
+- Reparar antes que reemplazar.
+- Reusar antes que producir nuevo.
+- Diseñar para durabilidad.
+- Facilitar cuidado y mantenimiento.
+- Evitar incentivar consumo innecesario.
+- Integrar reventa y trade-in cuando sea posible.
+- Considerar fin de vida desde el diseño.
+
+CRITERIOS DE COHERENCIA
+Una decisión es coherente si:
+- Extiende vida útil.
+- Reduce devoluciones o reemplazos.
+- Integra reparación o reventa.
+- Recomienda menos, pero mejor.
+- Educa al cliente en cuidado.
+- Reduce residuos o sobreproducción.
+
+SEÑALES DE RIESGO
+- Promoción agresiva orientada solo a volumen.
+- Lanzamiento sin plan de reparación.
+- Producto difícil de reparar.
+- Canal que genera alta devolución.
+- Incentivo a reemplazar productos funcionales.
+- No hay solución de fin de vida.
+
+PREGUNTAS PARA EL AGENTE
+- ¿La decisión fomenta reparación o reemplazo?
+- ¿Se puede integrar Worn Wear?
+- ¿Qué pasará con productos devueltos o usados?
+- ¿La recomendación al cliente es responsable?

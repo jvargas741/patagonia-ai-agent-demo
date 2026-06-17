@@ -1,0 +1,45 @@
+DOCUMENTO 06 — PATAGONIA: RESPONSABILIDAD AMBIENTAL EN CADENA DE SUMINISTRO
+Tipo: Fuente pública resumida para RAG
+Uso esperado: Evaluar impacto ambiental de proveedores, procesos y manufactura.
+
+FUENTE BASE CONSULTADA
+- Patagonia — Supply Chain Environmental Impact Program.
+
+RESUMEN OPERATIVO
+El programa ambiental de cadena de suministro de Patagonia busca medir, reducir y eliminar impactos ambientales generados por la manufactura de productos y materiales. El programa cubre áreas como gestión ambiental, químicos, uso de agua, descargas, energía, gases de efecto invernadero, emisiones al aire y residuos.
+
+ÁREAS DE EVALUACIÓN
+- Sistemas de gestión ambiental.
+- Uso y manejo de químicos.
+- Consumo de agua.
+- Efluentes y emisiones al agua.
+- Energía.
+- Gases de efecto invernadero.
+- Emisiones al aire.
+- Residuos.
+- Certificaciones de terceros.
+- Herramientas de medición de impacto.
+
+CRITERIOS DE COHERENCIA
+Una decisión de supply chain es coherente si:
+- Reduce impactos ambientales medibles.
+- Usa herramientas y estándares reconocidos.
+- Exige cumplimiento mínimo a proveedores.
+- Incentiva mejores prácticas.
+- Integra metas de reducción de carbono.
+- Favorece colaboración sectorial para mejora.
+
+SEÑALES DE RIESGO
+- Proveedor sin sistema de gestión ambiental.
+- Uso de químicos no verificados.
+- No hay información de agua, residuos o energía.
+- El proveedor no cumple mínimos ambientales.
+- La decisión aumenta producción sin estrategia de reducción.
+- El socio no acepta medición externa.
+
+PREGUNTAS PARA EL AGENTE
+- ¿Qué impactos ambientales se medirán?
+- ¿Qué estándares se exigirán?
+- ¿La decisión mejora o empeora huella de manufactura?
+- ¿Hay capacidad para auditar?
+- ¿Qué condiciones mínimas deben agregarse?

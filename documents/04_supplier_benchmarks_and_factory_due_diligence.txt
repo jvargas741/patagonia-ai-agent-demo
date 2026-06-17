@@ -1,0 +1,47 @@
+DOCUMENTO 04 — PATAGONIA: BENCHMARKS Y DUE DILIGENCE EN FÁBRICAS
+Tipo: Fuente pública resumida para RAG
+Uso esperado: Profundizar evaluación de proveedores y fábricas.
+
+FUENTES BASE CONSULTADAS
+- Patagonia — Working With Factories.
+- Patagonia — Workplace Compliance Benchmarks for Suppliers.
+- Patagonia — Supplier Workplace Code of Conduct.
+
+RESUMEN OPERATIVO
+Patagonia complementa su código de conducta con benchmarks y procesos de due diligence. Su enfoque incluye revisión de fábricas, auditorías, planes de acción correctiva y análisis de nuevos proveedores. La empresa afirma que no posee la mayoría de fábricas, pero busca trabajar con socios alineados y aplicar estándares sociales, ambientales, de calidad y sourcing.
+
+ELEMENTOS DE DUE DILIGENCE
+- Pre-screening de nuevos proveedores antes de colocar órdenes.
+- Evaluación en cuatro dimensiones: sourcing, calidad, social y ambiental.
+- Participación de equipos social, ambiental, calidad y sourcing.
+- Poder de veto sobre nuevos proveedores cuando no cumplen estándares.
+- Auditorías y visitas de seguimiento.
+- Planes de acción correctiva.
+- Formación a fábricas y gerentes.
+- Evaluación contra leyes locales, código de conducta y benchmarks.
+- Preferencia por el estándar más beneficioso para trabajadores cuando hay diferencias.
+
+CRITERIOS DE APROBACIÓN
+Una decisión de sourcing o alianza debe exigir:
+- Identificación de proveedores críticos.
+- Evaluación social y ambiental previa.
+- Evidencia documental de cumplimiento.
+- Plan de auditoría.
+- Plan de remediación.
+- Mecanismo de escalamiento.
+- Responsabilidad contractual clara.
+- Derecho de veto o terminación.
+
+SEÑALES DE RIESGO
+- La decisión acelera órdenes antes de terminar due diligence.
+- Se acepta un proveedor por precio, capacidad o velocidad sin evaluación completa.
+- El proveedor opera en un país, región o sector con riesgos laborales conocidos.
+- El contrato no permite auditoría.
+- El socio no entrega datos de subcontratistas.
+- Se requiere producción urgente con alto riesgo de horas extra excesivas.
+
+PREGUNTAS PARA EL AGENTE
+- ¿Se completó due diligence antes de aprobar?
+- ¿Qué equipos deberían tener poder de veto?
+- ¿Qué condiciones mínimas deben estar en contrato?
+- ¿Qué información falta para evaluar cumplimiento?
