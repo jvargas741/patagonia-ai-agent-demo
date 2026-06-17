@@ -1,0 +1,30 @@
+DOCUMENTO 09 — PATAGONIA: GOBERNANZA, PROPIEDAD Y PROPÓSITO
+Tipo: Fuente pública resumida para RAG
+Uso esperado: Evaluar decisiones de gobierno, crecimiento, rentabilidad y asignación de recursos.
+
+FUENTE BASE CONSULTADA
+- Patagonia — Ownership / Earth is now our only shareholder.
+- Patagonia — Business Unusual.
+
+RESUMEN OPERATIVO
+Patagonia comunicó en 2022 una estructura de propiedad diseñada para preservar su propósito y destinar valor económico a la protección del planeta. La frase “Earth is now our only shareholder” resume una lógica de gobernanza en la que el negocio debe servir a la misión ambiental, no al revés. Para el agente, esto implica que decisiones de crecimiento, inversión, alianzas o rentabilidad deben analizarse por su contribución neta al propósito.
+
+CRITERIOS DE GOBERNANZA
+- La rentabilidad es necesaria, pero subordinada al propósito.
+- Los beneficios económicos deben habilitar impacto, no diluir identidad.
+- Las decisiones deben ser defendibles ante empleados, clientes, activistas y comunidades.
+- El crecimiento debe evaluarse por coherencia, no solo por volumen.
+- Debe existir protección institucional contra decisiones oportunistas.
+
+SEÑALES DE RIESGO
+- El argumento de aprobación es principalmente financiero.
+- La decisión requiere sacrificar estándares para ganar escala.
+- Se crea dependencia de socios con valores incompatibles.
+- La decisión puede erosionar confianza en la propiedad orientada al planeta.
+- No hay mecanismo de rendición de cuentas.
+
+PREGUNTAS PARA EL AGENTE
+- ¿Esta decisión es coherente con una empresa cuyo “accionista” simbólico es la Tierra?
+- ¿Qué tensión existe entre beneficio financiero y propósito?
+- ¿Cómo se justificaría públicamente ante stakeholders?
+- ¿Qué gobernanza o controles deberían exigirse?

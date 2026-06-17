@@ -1,0 +1,39 @@
+DOCUMENTO 10 — RIESGO EXTERNO: CRÍTICAS A CADENA DE SUMINISTRO
+Tipo: Fuente externa resumida para RAG
+Uso esperado: Dar contraste crítico y evitar que el agente funcione como marketing.
+
+FUENTES BASE CONSULTADAS
+- Follow the Money — investigación sobre Patagonia y fábricas compartidas con marcas fast fashion.
+- Patagonia — Living Wage.
+- Patagonia — Corporate Social Responsibility.
+- Fuentes secundarias sobre la investigación de Follow the Money.
+
+RESUMEN OPERATIVO
+La coherencia de Patagonia ha sido cuestionada públicamente en relación con condiciones laborales, salario digno y fábricas compartidas con marcas de fast fashion. Estas críticas no deben tratarse como prueba concluyente de incumplimiento universal, pero sí como señales de riesgo reputacional y operativo que requieren diligencia reforzada.
+
+TENSIONES IDENTIFICADAS
+- Patagonia comunica estándares altos, pero opera en cadenas globales compartidas.
+- La empresa no posee todas las fábricas y por tanto depende de influencia contractual, auditoría y colaboración.
+- Las brechas de salario digno reportadas por la propia Patagonia muestran que el objetivo aún no está completamente alcanzado.
+- Una marca con alto propósito está más expuesta a críticas cuando hay distancia entre promesa pública y condiciones operativas.
+
+USO PARA EL AGENTE
+Cuando una decisión involucre retailers masivos, proveedores, expansión productiva o cadenas de menor visibilidad, el agente debe:
+- Elevar riesgo reputacional.
+- Solicitar evidencia adicional.
+- Pedir auditorías o reportes independientes.
+- Recomendar aprobar solo con condiciones si hay potencial positivo.
+- Penalizar score si falta trazabilidad.
+
+SEÑALES DE RIESGO
+- Socio opera en mismas fábricas que marcas de bajo estándar sin diferenciación verificable.
+- No hay datos de salario digno.
+- Se ocultan nombres de fábricas o proveedores.
+- Se argumenta que la empresa no tiene responsabilidad porque no es empleador directo.
+- No existe plan de mejora laboral.
+
+PREGUNTAS PARA EL AGENTE
+- ¿Qué crítica externa podría surgir si se aprueba la decisión?
+- ¿La decisión expone una brecha entre discurso y operación?
+- ¿Qué datos laborales deben ser públicos o auditables?
+- ¿Se requiere verificación de terceros?

@@ -1,0 +1,36 @@
+DOCUMENTO 12 — MARCO DE RIESGO: SOBREPRODUCCIÓN Y CRECIMIENTO RESPONSABLE
+Tipo: Marco de evaluación interno para RAG
+Uso esperado: Evaluar nuevos mercados, promociones, inventario, productos y ecommerce.
+
+RESUMEN OPERATIVO
+Patagonia enfrenta una tensión estructural: vender productos en una industria que contribuye a emisiones, residuos y sobreconsumo. El crecimiento no es automáticamente incoherente, pero debe diseñarse para minimizar sobreproducción, devoluciones, compras innecesarias y obsolescencia.
+
+CRITERIOS DE CRECIMIENTO RESPONSABLE
+- Crecer impacto antes que volumen.
+- Vender productos duraderos y necesarios.
+- Reducir devoluciones mediante mejor recomendación.
+- Integrar reparación y reventa.
+- Evitar promociones que incentiven compra impulsiva.
+- Ajustar inventario a demanda real.
+- Usar Worn Wear como alternativa a producción nueva.
+- Medir impacto por unidad vendida y por vida útil.
+
+SEÑALES DE RIESGO
+- Expansión comercial sin plan de inventario responsable.
+- Descuentos agresivos que empujan volumen.
+- Nuevos productos con baja diferenciación funcional.
+- Inventario sin salida circular.
+- Canales con altas devoluciones.
+- Campaña basada en urgencia o escasez artificial.
+
+REGLAS PARA EL AGENTE
+- Penalizar decisiones que generen producción nueva sin justificar necesidad.
+- Favorecer decisiones que integren reparación, reventa o trade-in.
+- Solicitar escenarios de demanda y exceso de inventario.
+- Pedir KPI de devoluciones, reparación e inventario no vendido.
+
+PREGUNTAS PARA EL COMITÉ
+- ¿Esta decisión vende más o ayuda a usar mejor lo ya producido?
+- ¿Cuál es el riesgo de inventario excedente?
+- ¿Cómo se integrará Worn Wear?
+- ¿Cómo se medirá reducción de devoluciones?

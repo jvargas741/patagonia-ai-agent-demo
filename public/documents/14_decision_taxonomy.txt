@@ -1,0 +1,93 @@
+DOCUMENTO 14 — TAXONOMÍA DE DECISIONES Y CRITERIOS POR TIPO
+Tipo: Marco interno del prototipo
+Uso esperado: Ayudar al agente a evaluar según el tipo de decisión.
+
+TIPOS DE DECISIÓN
+
+1. Alianza estratégica
+Revisar:
+- Coherencia del socio.
+- Historial ambiental y laboral.
+- Riesgo reputacional.
+- Compatibilidad de valores.
+- Transparencia contractual.
+- Capacidad de auditoría.
+- Cláusulas de salida.
+Recomendación típica:
+- Aprobar con condiciones si hay potencial pero riesgo reputacional.
+- Solicitar más información si no hay evidencia del socio.
+
+2. Nuevo proveedor
+Revisar:
+- Código de conducta.
+- Auditorías.
+- Trazabilidad.
+- Salario digno.
+- Salud y seguridad.
+- Subcontratistas.
+- Gestión ambiental.
+Recomendación típica:
+- No aprobar sin due diligence completa.
+
+3. Nuevo mercado
+Revisar:
+- Impacto logístico.
+- Cultura local.
+- Socios de distribución.
+- Riesgo de dilución de propósito.
+- Normativa ambiental/laboral.
+- Inventario y devoluciones.
+Recomendación típica:
+- Aprobar con piloto si hay controles y métricas.
+
+4. Campaña de marketing
+Revisar:
+- Exactitud de claims.
+- Riesgo de greenwashing.
+- Incentivo a sobreconsumo.
+- Balance entre venta y propósito.
+- Evidencia disponible.
+Recomendación típica:
+- Revisar claims antes de aprobar.
+
+5. Nueva línea de producto
+Revisar:
+- Necesidad real del producto.
+- Materiales.
+- Reparabilidad.
+- Durabilidad.
+- Fin de vida.
+- Riesgo de sobreproducción.
+Recomendación típica:
+- Aprobar solo si mejora funcionalidad o reduce impacto.
+
+6. Decisión de cadena de suministro
+Revisar:
+- Proveedores.
+- Ubicación.
+- Emisiones.
+- Agua, energía, químicos, residuos.
+- Auditoría.
+- Plan de remediación.
+Recomendación típica:
+- Exigir evaluación social y ambiental.
+
+7. Política comercial o promoción
+Revisar:
+- Incentivo a compra impulsiva.
+- Descuentos.
+- Inventario excedente.
+- Devoluciones.
+- Integración con reparación/reventa.
+Recomendación típica:
+- Penalizar si empuja sobreconsumo.
+
+8. Tecnología y datos
+Revisar:
+- Privacidad.
+- Personalización no invasiva.
+- Transparencia algorítmica.
+- Sesgos.
+- Uso de datos reales versus inferidos.
+Recomendación típica:
+- Aprobar si reduce impacto o mejora servicio sin manipulación del consumidor.

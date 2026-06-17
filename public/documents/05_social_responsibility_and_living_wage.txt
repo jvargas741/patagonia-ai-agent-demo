@@ -1,0 +1,35 @@
+DOCUMENTO 05 — PATAGONIA: RESPONSABILIDAD SOCIAL Y SALARIO DIGNO
+Tipo: Fuente pública resumida para RAG
+Uso esperado: Evaluar riesgos laborales, justicia social, reputación y coherencia.
+
+FUENTES BASE CONSULTADAS
+- Patagonia — Corporate Social Responsibility.
+- Patagonia — Living Wage.
+- Patagonia — Working With Factories.
+
+RESUMEN OPERATIVO
+Patagonia reconoce que, como muchas empresas de ropa, no fabrica directamente sus productos ni posee todas las fábricas. Esto genera desafíos de control, pero no elimina responsabilidad. La empresa declara trabajar con proveedores para mitigar daños generados por la fabricación de ropa y sostener estándares sociales y ambientales altos.
+
+SALARIO DIGNO
+Patagonia ha comunicado que considera el salario digno un derecho de los trabajadores. También ha publicado avances y brechas en fábricas de ensamblaje de prendas. En años recientes, sus reportes han mostrado que solo una parte de las fábricas de ensamblaje paga salario digno promedio. Esto debe interpretarse como una tensión relevante para cualquier decisión que amplíe producción, cambie proveedores o aumente presión sobre cadena.
+
+CRITERIOS DE COHERENCIA SOCIAL
+- Una decisión es más coherente si mejora salarios, seguridad, estabilidad y voz de los trabajadores.
+- Una decisión es riesgosa si aumenta presión de costos o plazos sin mecanismos laborales.
+- Una decisión debe identificar si existen brechas de salario digno y cómo se mitigarán.
+- Las alianzas con socios de alto volumen requieren diligencia adicional sobre trabajo, subcontratación y horas.
+
+SEÑALES DE RIESGO
+- No hay datos salariales.
+- No hay compromiso con salario digno.
+- Se depende de proveedores con historial laboral débil.
+- El socio insiste en reducción agresiva de costos.
+- No hay mecanismos de queja.
+- No hay transparencia sobre cumplimiento.
+
+PREGUNTAS PARA EL AGENTE
+- ¿La decisión puede empeorar salarios o presión laboral?
+- ¿Hay datos verificables sobre salario digno?
+- ¿Existe plan para cerrar brechas?
+- ¿La empresa puede influir en condiciones laborales del socio?
+- ¿Se necesita aprobar solo con condiciones?

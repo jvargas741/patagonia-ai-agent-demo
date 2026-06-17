@@ -1,0 +1,56 @@
+DOCUMENTO 03 — PATAGONIA: SUPPLIER WORKPLACE CODE OF CONDUCT
+Tipo: Fuente pública resumida para RAG
+Uso esperado: Evaluar proveedores, fábricas, retailers, licenciatarios y socios comerciales.
+
+FUENTES BASE CONSULTADAS
+- Patagonia — Supplier Workplace Code of Conduct.
+- Patagonia — Working With Factories.
+- Patagonia — Modern Slavery Act Statement 2025.
+
+RESUMEN OPERATIVO
+Patagonia establece expectativas laborales, sociales, ambientales y de trazabilidad para su cadena de suministro. El código aplica a niveles amplios de la cadena: desde granja hasta fábrica de confección, incluyendo subcontratistas y subproveedores. El agente debe usar este documento para evaluar decisiones que involucren manufactura, proveedores, retailers, expansión internacional, alianzas, licencias o cambios de sourcing.
+
+TEMAS CUBIERTOS POR EL CÓDIGO
+- Cumplimiento legal y del código.
+- Trabajo infantil.
+- Trabajo forzoso.
+- Acoso, abuso y prácticas disciplinarias.
+- Discriminación.
+- Libertad de asociación y negociación colectiva.
+- Relaciones laborales.
+- Salarios y beneficios.
+- Pago de horas extra.
+- Horas de trabajo.
+- Salud y seguridad.
+- Ambiente.
+- Comunidad.
+- Subcontratación.
+- Bienestar animal.
+- Trazabilidad.
+- Comunicación del código.
+- Calidad.
+
+CRITERIOS DE COHERENCIA
+Una decisión vinculada a cadena de suministro es coherente solo si:
+- El socio acepta estándares laborales claros.
+- Existe trazabilidad suficiente para verificar cumplimiento.
+- Se pueden auditar proveedores y subproveedores.
+- Existen mecanismos de queja para trabajadores.
+- Se puede actuar ante incumplimientos.
+- Se protegen derechos laborales, salud y seguridad.
+
+SEÑALES DE RIESGO ALTO
+- Socio sin política pública de trabajo forzoso o trabajo infantil.
+- Falta de trazabilidad hasta subproveedores.
+- Historial de denuncias laborales no resueltas.
+- Presión de precio o plazo que pueda incentivar horas excesivas.
+- Subcontratación no autorizada o no visible.
+- Ausencia de mecanismos de queja independientes.
+- Imposibilidad contractual de auditar o terminar relación.
+
+PREGUNTAS PARA EL AGENTE
+- ¿La decisión involucra proveedores o subproveedores no verificados?
+- ¿La empresa puede auditar condiciones laborales?
+- ¿Existen cláusulas de salida por incumplimiento?
+- ¿La decisión mejora o empeora trazabilidad?
+- ¿Se requeriría diligencia adicional antes de aprobar?
