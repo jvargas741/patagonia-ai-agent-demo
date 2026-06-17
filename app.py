@@ -70,16 +70,23 @@ def evaluate(req: EvaluationRequest):
     model = os.getenv("OPENAI_MODEL", "gpt-5.4-mini")
 
     try:
-        response = client.responses.create(
-            model=model,
-            input=[
-                {"role": "system", "content": SYSTEM_PROMPT},
-                {"role": "user", "content": prompt}
-            ],
-            temperature=0.2
-        )
+  response = client.chat.completions.create(
 
-        output_text = response.output_text.strip()
+    model=model,
+
+    messages=[
+
+        {"role": "system", "content": SYSTEM_PROMPT},
+
+        {"role": "user", "content": prompt}
+
+    ],
+
+    temperature=0.2
+
+)
+
+output_text = response.choices[0].message.content.strip()
 
         try:
             parsed = json.loads(output_text)
